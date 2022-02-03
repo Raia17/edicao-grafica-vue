@@ -10,9 +10,8 @@ const projects = {
                         categoria: '',
                         imagens: [
                             {
-                                ori: "1111_4",
-                                alt: "",
-                            }
+                                ori: "1110_1",
+                            },
                         ],
                         passos: [
                             'Criar website com a finalidade de usar para a disciplina',
@@ -24,12 +23,11 @@ const projects = {
                         title: 'Introdução ao tratamento de cor e imagem',
                         dia: 14,
                         mes: 'Outubro',
-                        categoria: 'color',
+                        categoria: 'cut',
                         imagens: [
                             {
                                 ori: "1410_1",
-                                alt: "",
-                            }
+                            },
                         ],
                         passos: [
                             'Funcionamento da cor',
@@ -47,8 +45,31 @@ const projects = {
                         imagens: [
                             {
                                 ori: "1810_1",
-                                alt: "",
-                            }
+                            },
+                            {
+                                ori: "1810_2",
+                            },
+                            {
+                                ori: "1810_3",
+                            },
+                            {
+                                ori: "1810_4",
+                            },
+                            {
+                                ori: "1810_5",
+                            },
+                            {
+                                ori: "1810_6",
+                            },
+                            {
+                                ori: "1810_7",
+                            },
+                            {
+                                ori: "1810_8",
+                            },
+                            {
+                                ori: "1810_9",
+                            },
                         ],
                         passos: [
                             'Usar a ferramenta de Corte (crop tool)',
@@ -64,7 +85,21 @@ const projects = {
                         imagens: [
                             {
                                 ori: "2110_1",
-                                alt: "",
+                            },
+                            {
+                                ori: "2110_2",
+                            },
+                            {
+                                ori: "2110_3",
+                            },
+                            {
+                                ori: "2110_4",
+                            },
+                            {
+                                ori: "2110_5",
+                            },
+                            {
+                                ori: "2110_6",
                             }
                         ],
                         passos: [
@@ -81,8 +116,25 @@ const projects = {
                         imagens: [
                             {
                                 ori: "2510_1",
-                                alt: "",
-                            }
+                            },
+                            {
+                                ori: "2510_2",
+                            },
+                            {
+                                ori: "2510_3",
+                            },
+                            {
+                                ori: "2510_4",
+                            },
+                            {
+                                ori: "2510_5",
+                            },
+                            {
+                                ori: "2510_6",
+                            },
+                            {
+                                ori: "2510_7",
+                            },
                         ],
                         passos: [
                             'Usar uma seleção para editar parte de uma imagem',
@@ -99,9 +151,17 @@ const projects = {
                         categoria: 'select',
                         imagens: [
                             {
-                                ori: "0411_1",
-                                alt: "",
-                            }
+                                ori: "0511_1",
+                            },
+                            {
+                                ori: "0511_2",
+                            },
+                            {
+                                ori: "0511_3",
+                            },
+                            {
+                                ori: "0511_4",
+                            },
                         ],
                         passos: [
                             'Usar uma seleção para editar parte de uma imagem',
@@ -110,20 +170,17 @@ const projects = {
                         ],
                     },
                     {
-                        title: 'Seleções (Continuação)',
+                        title: 'Website (Continuação)',
                         dia: 8,
                         mes: 'Novembro',
                         categoria: 'select',
                         imagens: [
                             {
-                                ori: "0811_1",
-                                alt: "",
+                                ori: "1110_1",
                             }
                         ],
                         passos: [
-                            'Usar uma seleção para editar parte de uma imagem',
-                            'Aprender a usar as ferramentas seleção',
-                            'Ajustar uma seleção',
+                            'Continuação da construção do nosso website',
                         ],
                     },
                     {
@@ -134,7 +191,21 @@ const projects = {
                         imagens: [
                             {
                                 ori: "1111_1",
-                                alt: "",
+                            },
+                            {
+                                ori: "1111_2",
+                            },
+                            {
+                                ori: "1111_3",
+                            },
+                            {
+                                ori: "1111_4",
+                            },
+                            {
+                                ori: "1111_5",
+                            },
+                            {
+                                ori: "1111_6",
                             }
                         ],
                         passos: [
@@ -152,8 +223,22 @@ const projects = {
                         imagens: [
                             {
                                 ori: "1511_1",
-                                alt: "",
-                            }
+                            },
+                            {
+                                ori: "1511_2",
+                            },
+                            {
+                                ori: "1511_3",
+                            },
+                            {
+                                ori: "1511_4",
+                            },
+                            {
+                                ori: "1511_5",
+                            },
+                            {
+                                ori: "1511_6",
+                            },
                         ],
                         passos: [
                             'menu Image > Mode > Grayscale',
@@ -170,8 +255,25 @@ const projects = {
                         imagens: [
                             {
                                 ori: "1811_1",
-                                alt: "",
-                            }
+                            },
+                            {
+                                ori: "1811_2",
+                            },
+                            {
+                                ori: "1811_3",
+                            },
+                            {
+                                ori: "1811_4",
+                            },
+                            {
+                                ori: "1811_5",
+                            },
+                            {
+                                ori: "1811_6",
+                            },
+                            {
+                                ori: "1811_7",
+                            },
                         ],
                         passos: [
                             'Menu Image > Adjustments > Hue Saturation',
@@ -189,8 +291,7 @@ const projects = {
                         imagens: [
                             {
                                 ori: "2211_1",
-                                alt: "",
-                            }
+                            },
                         ],
                         passos: [
                             'Fazer links/grupos de layers',
@@ -208,8 +309,19 @@ const projects = {
                         imagens: [
                             {
                                 ori: "2511_1",
-                                alt: "",
-                            }
+                            },
+                            {
+                                ori: "2511_2",
+                            },
+                            {
+                                ori: "2511_3",
+                            },
+                            {
+                                ori: "2511_4",
+                            },
+                            {
+                                ori: "2511_5",
+                            },
                         ],
                         passos: [
                             'Fazer a montagens das imagens',
@@ -226,8 +338,13 @@ const projects = {
                         imagens: [
                             {
                                 ori: "2911_1",
-                                alt: "",
-                            }
+                            },
+                            {
+                                ori: "2911_2",
+                            },
+                            {
+                                ori: "2911_3",
+                            },
                         ],
                         passos: [
                             'Fazer a montagens das imagens',
@@ -239,15 +356,14 @@ const projects = {
                 ],
                 dezembro: [
                     {
-                        title: 'Blending Modes',
+                        title: 'Blending Modes e Composição',
                         dia: 2,
                         mes: 'Dezembro',
                         categoria: 'composition',
                         imagens: [
                             {
                                 ori: "0212_1",
-                                alt: "",
-                            }
+                            },
                         ],
                         passos: [
                             'Aplicar Adjustment Layers',
@@ -281,8 +397,7 @@ const projects = {
                         imagens: [
                             {
                                 ori: "0912_1",
-                                alt: "",
-                            }
+                            },
                         ],
                         passos: [
                             'Aplicar o efeito de dupla exposição numa imagem nossa',
@@ -316,8 +431,22 @@ const projects = {
                         imagens: [
                             {
                                 ori: "1612_1",
-                                alt: "",
-                            }
+                            },
+                            {
+                                ori: "1612_2",
+                            },
+                            {
+                                ori: "1612_3",
+                            },
+                            {
+                                ori: "1612_4",
+                            },
+                            {
+                                ori: "1612_5",
+                            },
+                            {
+                                ori: "1612_6",
+                            },
                         ],
                         passos: [
                             'Red Eye Tool',
@@ -332,8 +461,7 @@ const projects = {
                         categoria: 'vetor',
                         imagens: [
                             {
-                                ori: "0912_1",
-                                alt: "",
+                                ori: "1301_1",
                             }
                         ],
                         passos: [
@@ -349,8 +477,7 @@ const projects = {
                         categoria: 'vetor',
                         imagens: [
                             {
-                                ori: "",
-                                alt: "",
+                                ori: "1301_1",
                             }
                         ],
                         passos: [
@@ -364,8 +491,7 @@ const projects = {
                         categoria: 'composition',
                         imagens: [
                             {
-                                ori: "",
-                                alt: "",
+                                ori: "1301_1",
                             }
                         ],
                         passos: [
@@ -379,8 +505,7 @@ const projects = {
                         categoria: 'composition',
                         imagens: [
                             {
-                                ori: "",
-                                alt: "",
+                                ori: "1001_1",
                             }
                         ],
                         passos: [
@@ -388,18 +513,45 @@ const projects = {
                         ],
                     },
                     {
-                        title: 'Preparação para frequência - Parte II',
+                        title: 'Preparação para frequência - Parte I',
                         dia: 13,
                         mes: 'Janeiro',
                         categoria: 'composition',
                         imagens: [
                             {
-                                ori: "",
-                                alt: "",
+                                ori: "1301_1",
                             }
                         ],
                         passos: [
                             'Criar um logotipo o mais parecido com o exemplo fornecido',
+                        ],
+                    },
+                    {
+                        title: 'Frequência - Parte I',
+                        dia: 17,
+                        mes: 'Janeiro',
+                        categoria: 'vetor',
+                        imagens: [
+                            {
+                                ori: "1701_1",
+                            }
+                        ],
+                        passos: [
+                            'Criar um logotipo com os passos indicados na frequência e com criatividade nossa',
+                        ],
+                    },
+                    {
+                        title: 'Frequência - Parte II',
+                        dia: 20,
+                        mes: 'Janeiro',
+                        categoria: 'composition',
+                        imagens: [
+                            {
+                                ori: "2001_1",
+                            }
+                        ],
+                        passos: [
+                            'Criar uma imagem com os passos indicados na frequência e com criatividade nossa',
                         ],
                     },
                 ],

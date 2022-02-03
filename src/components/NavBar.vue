@@ -1,6 +1,6 @@
 <template>
     <div class="header fixed">
-        <div id="logo">
+        <div v-if="showLogo" id="logo">
             <img src="../assets/logo.svg" alt="logo">
         </div>
         <div class="nav">
@@ -18,6 +18,7 @@
 export default {
     props: {
         spacer: Boolean,
+        showLogo: Boolean,
     }
 }
 </script>
@@ -34,12 +35,12 @@ export default {
         align-items: center;
 
         width: 100%;
-
         padding: 1.2rem 2rem;
 
         font-family: 'Alata', sans-serif;     
         
         position: fixed;
+        background: linear-gradient(180deg, rgba(255,255,255,.7) 0%, rgba(255,255,255,0.45) 50%, rgba(255,255,255,0) 100%);
     }
 
     #logo{
@@ -83,6 +84,6 @@ export default {
     }
 
     .nav a.router-link-exact-active {
-  color: hsl(0, 47%, 49%);
-}
+        color: hsl(0, 47%, 49%);
+    }
 </style>
